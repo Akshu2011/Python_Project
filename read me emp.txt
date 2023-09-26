@@ -1,0 +1,25 @@
+Employee Management System
+Python Version
+License
+
+Overview
+The Employee Management System is a simple command-line application developed in Python to manage employee records. It allows you to add, display, search, update, and delete employee details. This system helps HR departments and businesses keep track of employee information efficiently.
+
+Features
+Add new employees with details such as name, salary, age, gender, and more.
+Display employee details, either all employees or department-wise.
+Search for employees by Employee ID, Department Name, or Employee Name.
+Update employee information, including name, date of birth, and address.
+Delete employees from the system.
+Calculate and display employees with the highest and lowest salaries.
+Usage
+
+https://github.com/Akshu2011/Python_Project
+Navigate to the project directory:
+
+cd Python_Project
+Run the main.py file to start the application:
+
+python main.py
+Follow the on-screen instructions to interact with the Employee Management System.
+
